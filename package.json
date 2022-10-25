@@ -1,0 +1,19 @@
+{
+  "name": "b951_tavator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavator/b951.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tavator/b951/issues"
+  },
+  "homepage": "https://github.com/tavator/b951#readme"
+}
